@@ -1,0 +1,1 @@
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/AbstractVM.dir/src/main.cpp.o CMakeFiles/AbstractVM.dir/src/AbstractVM.cpp.o CMakeFiles/AbstractVM.dir/src/AVM_Exception.cpp.o CMakeFiles/AbstractVM.dir/src/OperandFactory.cpp.o  -o AbstractVM 
